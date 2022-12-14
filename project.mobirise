@@ -49,7 +49,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "chatbutton": {
       "phone": "+91 9791010360",
       "message": "",
